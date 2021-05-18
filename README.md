@@ -1,2 +1,2 @@
-# Optical-Character-Recognition-using-CNN-1
+# Optical-Character-Recognition-using-CNN
 This project is an Implementation of Optical Character Recognition using CNN using Keras. It is a 5 layers Sequential Convolutional Neural Network for digits recognition trained on MNIST dataset. This solution is focus in two main sections first one prepare the data (handwritten digits images), second part was focus in train, use and evaluate the CNN model. 
